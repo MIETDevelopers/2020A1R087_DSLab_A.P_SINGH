@@ -1,5 +1,4 @@
-/*Implement a Circular Linked List and develop functions to perform insertion, 
-deletion and linear search operations.*/
+/*Implement a Stack using Linked List and develop functions to perform push and pop operations.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
